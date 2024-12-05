@@ -51,6 +51,7 @@
   - Active Disks: /dev/sdb, /dev/sdc, /dev/sdd
   - Hot Spare Disks: /dev/sde, /dev/sdf
   - RAID Device: /dev/md127
+  - VM (Ubuntu/CentOS/)
   - Ensure mdadm is installed:
 
 ```yml
