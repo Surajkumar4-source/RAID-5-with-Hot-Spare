@@ -100,11 +100,12 @@ df -h | grep /mnt/raid5
 
 sudo mdadm /dev/md127 --remove /dev/sdb
 
-Simulates failure of /dev/sdb, marking it as failed.
-
-Use sudo mdadm --detail /dev/md127 to verify RAID's degraded state.
-
 ```
+
+ - Simulates failure of /dev/sdb, marking it as failed.
+
+ - Use sudo mdadm --detail /dev/md127 to verify RAID's degraded state.
+
 
 ### 6. Monitor Hot Spare Activation
 
