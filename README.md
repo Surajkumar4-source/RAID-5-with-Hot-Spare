@@ -208,3 +208,158 @@ cat /mnt/raid5/testfile.txt
 *This implementation provides the steps for setting up and managing a RAID 5 array with hot spare disks, simulating failures, and handling recovery.*
 
 
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
+
+## ------------------Screnshots--------------------
+1.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/1.png)
+
+2.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/2.png)
+
+
+3.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/3.png)
+
+<br>
+<br>
+
+
+4.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/4.png)
+
+<br>
+<br>
+
+5.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/5.png)
+
+<br>
+<br>
+
+
+
+
+
+<br>
+<br>
+
+6.
+<br>
+<br>
+
+
+
+![Alt text for image](screenshots/6.png)
+
+<br>
+<br>
+
+
+
+
+<br>
+<br>
+
+7.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/7.png)
+
+<br>
+<br>
+
+
+
+
+
+<br>
+<br>
+
+8.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/8.png)
+
+<br>
+<br>
+
+
+
+
+
+<br>
+<br>
+
+9.
+<br>
+<br>
+
+
+
+![Alt text for image](screenshots/9.png)
+
+
+<br>
+<br>
+
+
+
+
+<br>
+<br>
+
+10. ---Final output when we push the new code ,an Application is Automatically Updated---
+<br>
+<br>
+
+
+![Alt text for image](screenshots/10.png)
+
+<br>
+<br>
+
+
+
+
+![Alt text for image](screenshots/11.png)
+
+<br>
+<br>
+
+
+
+
