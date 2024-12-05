@@ -339,10 +339,7 @@ cat /mnt/raid5/testfile.txt
 
 
 
-<br>
-<br>
-
-10. ---Final output when we push the new code ,an Application is Automatically Updated---
+10.
 <br>
 <br>
 
@@ -354,6 +351,9 @@ cat /mnt/raid5/testfile.txt
 
 
 
+11.
+<br>
+<br>
 
 ![Alt text for image](screenshots/11.png)
 
